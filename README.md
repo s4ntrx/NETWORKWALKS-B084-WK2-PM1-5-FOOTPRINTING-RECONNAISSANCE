@@ -126,7 +126,7 @@ Findings:
 
 ### 🔹 Step 4. Curl - HTTP Header Inspection
 
-Command: curl -I https://networkwalks.com
+Command: `curl -I https://networkwalks.com`
 
 ![Curl Headers](screenshots/curl.jpg)
 
@@ -140,7 +140,7 @@ Findings:
 
 ### 🔹 Step 5. Wafw00f - WAF Detection
 
-Commands: wafw00f networkwalks.com / wafw00f https://networkwalks.com
+Commands: `wafw00f networkwalks.com` / `wafw00f https://networkwalks.com`
 
 ![Wafw00f Result](screenshots/wafw00f.jpg)
 
@@ -153,7 +153,7 @@ Findings:
 
 ### 🔹 Step 6. Dnsrecon - DNS Enumeration
 
-Command: dnsrecon -d networkwalks.com
+Command: `dnsrecon -d networkwalks.com`
 
 ![Dnsrecon Result](screenshots/dnsrecon.jpg)
 
@@ -190,7 +190,7 @@ Summary: By combining the results from all seven tools, I was able to collect in
 For Zenmap scanning, I used scanme.nmap.org which is the official test target provided by Nmap for legal scanning practice. This allowed me to perform an Intense Scan without scanning an unauthorized target.
 
 Profile Used: Intense Scan
-Command: nmap -T4 -A -v scanme.nmap.org
+Command: `nmap -T4 -A -v scanme.nmap.org`
 
 ![Zenmap Intense Scan](screenshots/zenmap.jpg)
 
@@ -203,7 +203,7 @@ Findings:
 
 #### 8.1 Ports / Hosts View
 
-![Zenmap Ports View](screenshots/zenmap.jpg)
+![Zenmap Ports View](screenshots/zenmaphosts.jpg)
 
 Findings:
 - Multiple open ports identified (example: 22 SSH, 80 HTTP, 110, 587, 2222, 3306 and others)
