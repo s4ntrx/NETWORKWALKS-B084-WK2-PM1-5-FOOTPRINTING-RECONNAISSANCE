@@ -211,24 +211,6 @@ Findings:
 - Ports tab in Zenmap gives a clear list of all open ports in one view
 - This view helps to quickly identify which services are exposed
 
-#### 8.2 Topology View
-
-![Zenmap Topology](screenshots/zenmap-topology.jpg)
-
-Findings:
-- Topology view shows the network path from localhost (attacker machine) to the target host
-- Target host is shown as a node at the end of the route
-- Topology helps to understand how many hops are between attacker and target
-
-#### 8.3 Hosts Viewer
-
-![Zenmap Hosts Viewer](screenshots/zenmap-hosts-viewer.jpg)
-
-Findings:
-- Hosts Viewer shows OS details - OS match: Linux with high accuracy
-- Hosts Viewer also shows open ports count and host details in one place
-
-Summary: Zenmap made the Nmap results easier to understand visually. Intense Scan gave ports, services, OS and traceroute in one scan, while Ports/Hosts, Topology and Hosts Viewer views helped to analyze the same results from different angles.
 
 ---
 
