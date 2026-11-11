@@ -128,7 +128,7 @@ Findings:
 
 Command: `curl -I https://networkwalks.com`
 
-![Curl Headers](screenshots/curl.jpg)
+![Curl Headers](screenshots/culr.jpg)
 
 Findings:
 - HTTP response code: 200 OK
