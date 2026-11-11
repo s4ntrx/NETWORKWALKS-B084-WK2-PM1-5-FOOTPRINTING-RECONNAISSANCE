@@ -168,7 +168,7 @@ Findings:
 
 ### 🔹 Step 7. Nmap - Port Scanning & Service Detection
 
-Commands: nmap -sV networkwalks.com / nmap -T4 -A -v networkwalks.com
+Commands: `nmap -sV networkwalks.com` / `nmap -T4 -A -v networkwalks.com`
 
 ![Nmap Scan](screenshots/nmap1.jpg)
 ![Nmap Scan](screenshots/nmap2.jpg)
