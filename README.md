@@ -296,13 +296,13 @@ Finally, these activities reinforced the importance of accurate documentation, r
 
 ### 🎓 What I Learned
 
-- 1. Passive vs Active Reconnaissance - WHOIS, Nslookup, and Dnsrecon are passive / semi-passive, while WhatWeb and Curl involve direct HTTP requests
-- 2. Technology Fingerprinting - Identifying CMS, plugin versions, and frameworks helps build a picture of a target's attack surface
-- 3. WAF Detection - Detecting a WAF early helps a tester understand what defenses are in place
-- 4. DNS Enumeration - SOA, NS, MX, TXT, and SRV records reveal infrastructure details like mail hosting
-- 5. Port Scanning - Nmap shows which services are exposed to the internet
-- 6. Zenmap Visualization - Zenmap Topology and Hosts Viewer make Nmap results easier to understand visually, including OS detection and network path
-- 7. Documentation - Documenting each tool, command, and finding clearly is a core part of professional reconnaissance reporting
+1. Passive vs Active Reconnaissance - WHOIS, Nslookup, and Dnsrecon are passive / semi-passive, while WhatWeb and Curl involve direct HTTP requests
+2. Technology Fingerprinting - Identifying CMS, plugin versions, and frameworks helps build a picture of a target's attack surface
+3. WAF Detection - Detecting a WAF early helps a tester understand what defenses are in place
+4. DNS Enumeration - SOA, NS, MX, TXT, and SRV records reveal infrastructure details like mail hosting
+5. Port Scanning - Nmap shows which services are exposed to the internet
+6. Zenmap Visualization - Zenmap Topology and Hosts Viewer make Nmap results easier to understand visually, including OS detection and network path
+7. Documentation - Documenting each tool, command, and finding clearly is a core part of professional reconnaissance reporting
 
 
 ---
