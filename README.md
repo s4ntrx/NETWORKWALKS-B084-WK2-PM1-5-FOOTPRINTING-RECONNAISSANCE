@@ -189,8 +189,6 @@ Summary: By combining the results from all seven tools, I was able to collect in
 
 For Zenmap scanning, I used scanme.nmap.org which is the official test target provided by Nmap for legal scanning practice. This allowed me to perform an Intense Scan without scanning an unauthorized target.
 
-Profile Used: Intense Scan
-Command: `nmap -T4 -A -v scanme.nmap.org`
 
 ![Zenmap Intense Scan](screenshots/zenmap.jpg)
 
@@ -201,15 +199,9 @@ Findings:
 - Service and version detection completed
 - Traceroute information collected
 
-#### 8.1 Ports / Hosts View
+#### 8.1 Network-Topology
 
 ![Zenmap Ports View](screenshots/zenmaphosts.jpg)
-
-Findings:
-- Multiple open ports identified (example: 22 SSH, 80 HTTP, 110, 587, 2222, 3306 and others)
-- Each open port shows its service name and version
-- Ports tab in Zenmap gives a clear list of all open ports in one view
-- This view helps to quickly identify which services are exposed
 
 
 ---
