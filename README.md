@@ -307,23 +307,4 @@ Peter Kariuki
 - Topic: Footprinting, Network Scanning and Vulnerability Assessment / Analysis
 - Repository: https://github.com/s4ntrx/NETWORKWALKS-B084-WK2-PM1-5-FOOTPRINTING-RECONNAISSANCE
 
-## 📁 Project Structure
-```text
-NETWORKWALKS-B084-WK2-PM1-5-FOOTPRINTING-RECONNAISSANCE
-├── README.md
-├── screenshots/
-│   ├── 01-whois.png
-│   ├── 02-whatweb.png
-│   ├── 03-nslookup.png
-│   ├── 04-curl.png
-│   ├── 05-wafw00f.png
-│   ├── 06-dnsrecon.png
-│   ├── 07-nmap.png
-│   ├── 08-zenmap-intense.png
-│   ├── 09-zenmap-ports.png
-│   ├── 10-zenmap-topology.png
-│   ├── 11-zenmap-hosts-viewer.png
-│   └── errors/
-│       └── error_1_whatweb_no_internet.png
-```
 
